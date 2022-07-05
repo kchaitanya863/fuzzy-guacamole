@@ -13,6 +13,19 @@ To use this project, you need to install the following dependencies:
 
 ```bash
 pip install keyboard
+chmod +x dont_sleep.py
+```
+
+Then, you can run the program by typing:
+
+```bash
+python3 dont_sleep.py
+```
+
+OR
+
+```bash
+./dont_sleep.py
 ```
 
 ## Can't install dependencies?
